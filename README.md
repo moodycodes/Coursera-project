@@ -1,4 +1,7 @@
-# Coursera-project
-# Purpose
- Creating this repository for coursera project, This  Repo does not hold much except me trying out and upskilling myself with gibhub.
-
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
